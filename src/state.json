@@ -1,0 +1,17 @@
+{
+    "add1Action":{
+        "type": "ADD_ONE"
+    },
+
+    "add10Action":{
+        "type": "ADD_TEN"
+    },
+
+    "remove1Action":{
+        "type": "REMOVE_ONE"
+    },
+
+    "remove10Action":{
+        "type": "REMOVE_TEN"
+    }
+}
