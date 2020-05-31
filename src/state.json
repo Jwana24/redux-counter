@@ -13,5 +13,9 @@
 
     "remove10Action":{
         "type": "REMOVE_TEN"
+    },
+
+    "resetAction":{
+        "type": "RESET"
     }
 }

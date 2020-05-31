@@ -8,6 +8,8 @@ const counterReducer = (state = 0, action) => {
             return state - 1;
         case 'REMOVE_TEN':
             return state - 10;
+        case 'RESET':
+            return state = 0;
         default:
             return state;
     }
